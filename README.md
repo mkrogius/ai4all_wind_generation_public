@@ -1,0 +1,2 @@
+# ai4all_wind_generation_public
+Wind Generation Prediction
